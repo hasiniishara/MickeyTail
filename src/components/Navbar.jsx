@@ -15,7 +15,7 @@ export const Navbar =() => {
             <a href="" style={{
                 color:'white',
                 backgroundColor:"#f1356d"
-            }}>SignIn</a>
+            }}>Login</a>
         </div>
     </nav>
   )
