@@ -10,11 +10,13 @@ export const Navbar =() => {
             <a href="">Home</a>
             <a href="" style={{
                 color:'white',
-                backgroundColor:"#f1356d"
+                backgroundColor:"#ad2173",
+                borderRadius: '25px'
             }}>Signup</a>
             <a href="" style={{
                 color:'white',
-                backgroundColor:"#f1356d"
+                backgroundColor:"#ad2173",
+                borderRadius: '25px'
             }}>Login</a>
         </div>
     </nav>

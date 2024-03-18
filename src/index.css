@@ -22,7 +22,7 @@
   padding: 6px;
 }
 .navbar a:hover {
-  color: #f1356d;
+  color: #ad2173;
 }
 
 .logo {
@@ -61,6 +61,34 @@
 .footer a:hover {
   text-decoration: underline; 
 }
+
+.search-bar {
+  padding: 5px;
+  width: 200px;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.search-bar input {
+  margin-right: 10px;
+  border-radius: 25px;
+  border: 2px solid #ad2173;
+  padding: 10px 15px; 
+  width: 200px; 
+}
+
+.search-bar button {
+  border-radius: 25px;
+  border: 2px solid #ad2173;
+  padding: 10px 15px; 
+  width: 100px; 
+  display: flex; 
+  justify-content: center; 
+}
+
 /* .content {
   max-width: 600px;
   margin: 40px auto;
