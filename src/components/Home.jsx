@@ -1,4 +1,5 @@
 import React from 'react'
+import { CategoryList } from './CategoryList'
 
 export const Home = () => {
 
@@ -12,7 +13,7 @@ export const Home = () => {
       name: "Cocktails"
     }
   ]
-  
+
   return (
     <div>
       <div className='search-bar'>
